@@ -1,0 +1,6 @@
+#ignore this folders
+*~
+*obj3
+Win32/
+Debug/
+__history/
